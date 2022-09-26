@@ -1,0 +1,40 @@
+<company>
+
+<information>
+
+<name> samsung </name>
+
+<id> 11 </id>
+
+<unitprice> 350000 </unitprice>
+
+<stock> 50 </stock>
+
+<status> 1 </status>
+
+<name> htc </name>
+
+<id> 20 </id>
+
+<unitprice> 653000 </unitprice>
+
+
+<stock> 35 </stock>
+
+<status> 0 </status> 
+
+<name> nokia </name>
+
+<id> 23 </id>
+
+<unitprice> 25100 </unitprice>
+
+
+<stock> 100 </stock>
+
+
+<status> 1 </status>
+
+</information>
+
+
